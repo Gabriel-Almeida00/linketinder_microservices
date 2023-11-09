@@ -6,7 +6,7 @@ class ConfigDataBase {
     private String userDB = "postgres"
     private String senhaDB = "postgres"
 
-    ConfigDatabase() {}
+
 
     String getDbType() {
         return dbType
