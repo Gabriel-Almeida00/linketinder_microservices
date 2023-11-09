@@ -1,4 +1,4 @@
-package com.linketinder.linketinder_microservices
+package com.linketinder.microservices
 
 import jakarta.servlet.http.*
 import jakarta.servlet.annotation.*
